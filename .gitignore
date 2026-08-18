@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit secrets (DO NOT commit this!)
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
