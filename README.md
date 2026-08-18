@@ -2,7 +2,8 @@
 
 **A 3-in-1 business intelligence platform** that combines AI-powered research, interactive data dashboards, and workflow automation – built for private markets, advisory, and general business operations.
 
-🔗 **Live Demo:** [https://business-ai-suite-g9pkaycuvcthqtbunbgcxv.streamlit.app/](https://business-ai-suite.streamlit.app)  
+🔗 **Live Demo:** [https://business-ai-suite-g9pkaycuvcthqtbunbgcxv.streamlit.app/](business-ai-suite-g9pkaycuvcthqtbunbgcxv
+.streamlit.app)  
 📂 **GitHub:** [https://github.com/Dhayalramesh/business-ai-suite](https://github.com/Dhayalramesh/business-ai-suite)
 
 ---
